@@ -1,4 +1,4 @@
-# laserBelt
+# lightBelt
 NeoPixel LED strip + micro Arduino + accelerometer = laserBelt
 
 There's not much more to it. Was generally a big hit. Two main modes: propagating waves, or stationary pulses. Both triggered by the accelerometer. 
